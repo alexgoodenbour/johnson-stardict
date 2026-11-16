@@ -1,0 +1,7 @@
+/* KOReader loads <dictionary>.css from next to the .ifo file. */
+.entry { margin: 0 0 0.9em 0; }
+p { margin: 0.25em 0; text-indent: 0; text-align: left; }
+p.s { margin-top: 0.35em; }
+.q { margin: 0.2em 0 0.2em 1.2em; font-size: 0.93em; text-align: left; }
+.au { font-style: normal; white-space: nowrap; }
+.lost { color: #666; font-size: 0.85em; }

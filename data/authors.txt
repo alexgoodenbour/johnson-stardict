@@ -1,0 +1,54 @@
+# Words that begin a citation at the end of one of Johnson's quotations
+# ("... the drudge. Locke on Education." / "Shakesp. Macbeth." / "Gen. i. 5.").
+# Used to set the citation in roman type after the italic quotation, as in the
+# printed book.  Derived from the frequency of capitalised words at the end of
+# quotations, then pruned by hand: titles that only ever follow an author name
+# (Macbeth, Paradise, Fairy ...) are deliberately absent.  A trailing 's is
+# matched automatically.
+
+# authors and Johnson's abbreviations of them
+Abbot Addison Addis Add Ainsworth Ains Ainsw Anon Anonym Anonymous Arbuthnot
+Arbuth Arbuthn Arb Arbut Ascham Atterbury Atterb Atter Att Ayliffe Ayl Aylisse
+Bacon Bac Bail Bailey Baker Bentley Bentl Bent Berkley Betterton Blackmore
+Blackm Blount Bolingbroke Boyle Bramhall Bramh Bramston Brerewood Broome Broom
+Brown Browne Bro Burnet Burton Butler Calamy Calmet Camden Camd Carew Chambers
+Chamb Chapman Chapm Chaucer Cheyne Clarendon Clarend Claren Clar Clarke Clark
+Cleaveland Cleveland Cocker Collier Congreve Congr Cong Corbet Cotton Cowel Cowell
+Cowley Crashaw Creech Daniel Davies Denham Denh Dennis Derham Derh Dict Digby
+Donne Dorset Drayton Drayt Drummond Dryden Dryd Dry Dufresnoy Dufresn Duppa
+Ellis Evelyn Fairfax Fairf Farrier Farr Felton Fenton Fiddes Flatman Floyer
+Forbes Garth Gay Gibson Gib Glanville Glanv Glanvill Glanvil Glan Granville Granv
+Granvil Graunt Grew Hakewill Hakewell Hakew Hale Hales Halifax Hammond Hamm
+Hanmer Harris Harr Harvey Harv Hayward Hayw Haywood Herbert Hill Holder Hold
+Hooker Hook Howel Howell Hubberd Hubbard Hubb Hub Hudibras Hud Idem Irene Johnson
+Johns Keil Knolles Lee L'Estrange L'Estr L'Est L'Estran Locke Loc Lyttleton
+Miller Mill Millar Milton Milt Mil Moore More Mortimer Mort Mortim Moxon Mox
+Maxon Newton Newt Norris Oldham Otway Peacham Peach Philips Phillips Pope Pop
+Prior Pri Quincy Quin Raleigh Ral Ray Rogers Rog Roger Roscommon Roscom Roscomm
+Rosc Rowe Rymer Sanderson Saunderson Sandys Sandy Savary Shakesp Shakespeare
+Shakespear Shakep Shak Shakes Sha Sh Sharp Sidney Sidn Sid Skinner Smalridge
+Smallridge Smart Smith South Southern Southerne Spelman Spenser Spens Sprat
+Spratt Stephens Stepney Stillingfleet Stillingfl Stilling Suckling Swift Sw
+Tate Taylor Tayl Temple Thomson Thoms Tickell Tickel Tillotson Tillots Tillot
+Trevoux Tusser Tuss Wake Walker Waller Walsh Walton Ward Watts Watt Whitgifte
+Whitgift Whitg Wilkins Wilk Wilkin Wiseman Wisem Woodward Woodw Wotton Wott Young
+
+# works and periodicals that Johnson cites without an author
+Clarissa Decay Dunciad Freeholder Government Govern Governm Gov Guardian
+Gulliver Gulliv Rambler Scriblerus Scrib Scribl Sceps Spectator Spect Spectat
+Tatler
+
+# books of the Bible and Apocrypha
+Gen Genesis Ex Exod Exodus Lev Levit Num Numb Numbers Deut Deutr Deuter Josh Jos
+Judg Judges Ruth Sam Kings Chron Ezra Neh Nehem Esth Esther Job Ps Psal Psalm
+Psalms Prov Proverbs Eccl Eccles Ecclus Cant Isa Isaiah Jer Jeremiah Lam Ezek
+Ezekiel Ez Dan Hos Hosea Joel Amos Jonah Mic Nah Hab Zeph Zech Mal Mat Matt
+Matth Matthew Mark Luke Lu John Jo Acts Rom Romans Cor Gal Eph Phil Col Thess
+Tim Tit Heb Hebr Hebrews James Ja Jam Pet Peter Jude Rev Tob Judith Wisd Wisdom
+Esd Maccab
+Arbu Hall Hobbes Hobbs King Marvel Marvell Molineux
+Is Sa Mac Macc Esdr Esdras Chro Chr Chron Thes Samuel Leviticus Deuteronomy
+Joshua Chronicles Nehemiah Ecclesiastes Ecclesiasticus Lamentations Micah Habakkuk
+Nahum Zechariah Malachi Corinthians Galatians Ephesians Philippians Colossians
+Thessalonians Timothy Revelation
+Builder Builders Stone Manasseh

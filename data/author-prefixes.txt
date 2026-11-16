@@ -1,0 +1,5 @@
+# Words that start a citation only when followed by a capitalised word
+# ("Sir J. Davies.", "Ben Jonson's Catiline.", "K. Charles.", "Fairy Qu. b. i.",
+# "Parad. Lost, b. ix.").
+Sir Ben Benj King K Bishop Bp Dr Lord St Archbishop Lady Fairy Paradise Parad Par
+F Fa Fai Comm Common Notes
